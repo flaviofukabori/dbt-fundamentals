@@ -1,4 +1,10 @@
-Welcome to your new dbt project!
+Welcome to my new dbt project!
+
+I have created this repo to work on the "dbt Fundamentals" online training available at https://www.getdbt.com/dbt-learn/.
+
+### What is dbt?
+
+dbt is a development framework that combines modular SQL with software engineering best practices to make data transformation reliable, fast, and fun.
 
 ### Using the starter project
 
